@@ -1,0 +1,6 @@
+[DEFAULT]
+
+MAIL_FROM = XXX
+HOST = email-smtp.us-east-1.amazonaws.com
+USER = XXX
+PASSWORD = XXX
